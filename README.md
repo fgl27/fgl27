@@ -10,7 +10,7 @@ A Twitch web client that works on Android TVs and web base operating systems
 An app to display a toast when a Turbo Charger is connected 
 
 **[iSu app](https://github.com/fgl27/isu)** (Android app)<br>
-A app help users to pass safety net verification
+A app to help users to pass safety net verification
 
 **[BHB27 - Kernel Adiutor Mod for quark app (BHB27-Kernel complementary app)](https://github.com/fgl27/KA27/wiki)** (Android app)<br>
 A Mod version of KernelAdiutor, an application which manages kernel parameters
@@ -29,9 +29,13 @@ Android OS ROM development
 
 **[Resurrection Remix Android 9 for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3893041)**
 
+**[LineageOS Android 9 for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t3933342)**
+
+**[LineageOS Android 10 for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t4039895)**
+
 Android OS Kernel development
 ===========================================
-**[BHB27-Kernel for quark](http://forum.xda-developers.com/moto-maxx/development/kernel-bhb27-kernel-t3207526)**
+**[BHB27-Kernel kernel for quark](http://forum.xda-developers.com/moto-maxx/development/kernel-bhb27-kernel-t3207526)**
 
 Android OS TWRP Recovery development
 ===========================================

@@ -1,4 +1,4 @@
-A resume of the projects I have put more worked on.
+## A resume of the projects I have put more worked on. I have use those to learn more about the development of ROM, Kernel and applications for Android and web applications.
 
 Applications
 ===========================================

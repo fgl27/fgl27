@@ -35,7 +35,7 @@ Android OS ROM development
 
 **[Android 9 LineageOS for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t3933342)**
 
-**[Android 10LineageOS for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t4039895)**
+**[Android 10 LineageOS for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t4039895)**
 
 Kernel development
 ===========================================

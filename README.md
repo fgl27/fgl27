@@ -1,6 +1,7 @@
 A resume of the projects I have put more worked on.
 
-Applications ===========================================
+Applications
+===========================================
 **[SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV)** (Android web app)<br>
 A Twitch web client that works on Android TVs and web base operating systems
 

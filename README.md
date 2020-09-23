@@ -1,5 +1,6 @@
-Applications Android and web
-===========================================
+A resume of the projects I have put more worked on.
+
+Applications ===========================================
 **[SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV)** (Android web app)<br>
 A Twitch web client that works on Android TVs and web base operating systems
 
@@ -17,27 +18,27 @@ A Mod version of KernelAdiutor, an application which manages kernel parameters
 
 Android OS ROM development
 ===========================================
-**[Resurrection Remix Android 5.1.1 for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-5-5-5-t3197643)**
+**[Android 5.1.1 Resurrection Remix for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-5-5-5-t3197643)**
 
-**[Resurrection Remix Android 6.0.1 for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3316232)**
+**[Android 6.0.1 Resurrection Remix for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3316232)**
 
-**[Resurrection Remix Android 7.x.x for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3511109)**
+**[Android 7 Resurrection Remix for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3511109)**
 
-**[Crdroid Android 7.x.x for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-crdroid-android-t3491257)**
+**[Android 7 Crdroid for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-crdroid-android-t3491257)**
 
-**[Resurrection Remix Android 8.x for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3811195)**
+**[Android 8 Resurrection Remix for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3811195)**
 
-**[Resurrection Remix Android 9 for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3893041)**
+**[Android 9 Resurrection Remix for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3893041)**
 
-**[LineageOS Android 9 for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t3933342)**
+**[Android 9 LineageOS for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t3933342)**
 
-**[LineageOS Android 10 for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t4039895)**
+**[Android 10LineageOS for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t4039895)**
 
-Android OS Kernel development
+Kernel development
 ===========================================
-**[BHB27-Kernel kernel for quark](http://forum.xda-developers.com/moto-maxx/development/kernel-bhb27-kernel-t3207526)**
+**[BHB27-Kernel for quark](http://forum.xda-developers.com/moto-maxx/development/kernel-bhb27-kernel-t3207526)**
 
-Android OS TWRP Recovery development
+TWRP Recovery development
 ===========================================
 **[OFFICIAL TWRP Recovery for Quark](http://forum.xda-developers.com/droid-turbo/orig-development/recovery-twrp-2-8-7-0-touch-recovery-t3180308)**
 

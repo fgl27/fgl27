@@ -1,7 +1,8 @@
 ## A resume of the projects I have put more worked on. I have use this to learn more about the development of ROM, Kernel and applications for Android and web applications.
 
 ### Stats
-![fgl27's github stats](https://github-readme-stats.vercel.app/api?username=fgl27&show_icons=true&theme=default&count_private=true)
+![fgl27's github stats](https://github-readme-stats.vercel.app/api?username=fgl27&show_icons=true&theme=default&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgl27)
+
 
 ### Applications
 

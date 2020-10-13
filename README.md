@@ -3,8 +3,6 @@
 ### Stats
 ![fgl27's github stats](https://github-readme-stats.vercel.app/api?username=fgl27&show_icons=true&theme=default&count_private=true) 
 
-[![fgl27's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fgl27)](https://github.com/fgl27)
-
 ### Most used Languages and Tools  
 
 <a href="https://github.com/topics/android" >

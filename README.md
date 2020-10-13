@@ -8,6 +8,8 @@
 **[SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV)** (Android web app)<br>
 A Twitch web client that works on Android TVs and web base operating systems
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=SmartTwitchTV)](https://github.com/fgl27/SmartTwitchTV)
+
 **[SmartTwitchTV for Samsung TV](https://github.com/fgl27/smarttv-twitch#how-the-application-looks)** (Tizen web app)<br>
 A Twitch web client that works on Samsung TVs and web base operating systems
 

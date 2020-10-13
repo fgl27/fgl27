@@ -1,4 +1,7 @@
-## A resume of the projects I have put more worked on. I have use those to learn more about the development of ROM, Kernel and applications for Android and web applications.
+## A resume of the projects I have put more worked on. I have use this to learn more about the development of ROM, Kernel and applications for Android and web applications.
+
+### ⚡ Stats
+![fgl27's github stats](https://github-readme-stats.vercel.app/api?username=fgl27&show_icons=true&theme=radical&count_private=true)
 
 Applications
 ===========================================

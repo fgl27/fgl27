@@ -1,10 +1,9 @@
 ## A resume of the projects I have put more worked on. I have use this to learn more about the development of ROM, Kernel and applications for Android and web applications.
 
-### ⚡ Stats
-![fgl27's github stats](https://github-readme-stats.vercel.app/api?username=fgl27&show_icons=true&theme=radical&count_private=true)
+### Stats
+![fgl27's github stats](https://github-readme-stats.vercel.app/api?username=fgl27&show_icons=true&theme=default&count_private=true)
 
-Applications
-===========================================
+### Applications
 
 **[SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV)** (Android web app)<br>
 A Twitch web client that works on Android TVs and web base operating systems
@@ -21,8 +20,7 @@ A Mod version of KernelAdiutor, an application which manages kernel parameters
 **[Turbo Toast, Android app](https://github.com/fgl27/turbotoast)** (Android app)<br>
 An app to display a toast when a Turbo Charger is connected 
 
-Android OS ROM development
-===========================================
+### Android OS ROM development
 
 **[Android 5.1.1 Resurrection Remix for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-5-5-5-t3197643)**
 
@@ -45,8 +43,7 @@ Kernel development
 
 **[BHB27-Kernel for quark](http://forum.xda-developers.com/moto-maxx/development/kernel-bhb27-kernel-t3207526)**
 
-TWRP Recovery development
-===========================================
+### TWRP Recovery development
 
 **[TWRP Recovery for Quark](http://forum.xda-developers.com/droid-turbo/orig-development/recovery-twrp-2-8-7-0-touch-recovery-t3180308)**
 

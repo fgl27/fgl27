@@ -26,21 +26,11 @@
 
 ### Applications
 
-[![SmartTwitchTV](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=SmartTwitchTV)](https://github.com/fgl27/SmartTwitchTV)
-
-[![SmartTwitchTV for Samsung TV](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=smarttv-twitch)](https://github.com/fgl27/smarttv-twitch#how-the-application-looks)
-
-[![iSu](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=isu)](https://github.com/fgl27/isu)
-
-[![KA27](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=KA27)](https://github.com/fgl27/KA27)
-
-[![turbotoast](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=turbotoast)](https://github.com/fgl27/turbotoast)
+[![SmartTwitchTV](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=SmartTwitchTV)](https://github.com/fgl27/SmartTwitchTV) [![SmartTwitchTV for Samsung TV](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=smarttv-twitch)](https://github.com/fgl27/smarttv-twitch#how-the-application-looks) [![iSu](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=isu)](https://github.com/fgl27/isu) [![KA27](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=KA27)](https://github.com/fgl27/KA27) [![turbotoast](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=turbotoast)](https://github.com/fgl27/turbotoast)
 
 ### Android OS ROM, Kernel and Recovery development
 
-[![device_motorola_quark](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=device_motorola_quark)](https://github.com/fgl27/device_motorola_quark)
-
-[![BHB27Kernel](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=BHB27Kernel)](https://github.com/fgl27/BHB27Kernel)
+[![device_motorola_quark](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=device_motorola_quark)](https://github.com/fgl27/device_motorola_quark) [![BHB27Kernel](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=BHB27Kernel)](https://github.com/fgl27/BHB27Kernel)
 
 ###  XDA forum for it ROM, Kernel or Recovery project
 

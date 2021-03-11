@@ -56,4 +56,4 @@
 
 **[MultiROM_TWRP for Quark](https://forum.xda-developers.com/moto-maxx/orig-development/tools-multiromtwrp-t3658605/)**
 
-**[@fgl27 XDA](http://forum.xda-developers.com/member.php?u=5747496)**
+**[@fgl27 at XDA](http://forum.xda-developers.com/member.php?u=5747496)**

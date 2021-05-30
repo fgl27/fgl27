@@ -34,26 +34,29 @@
 
 ###  XDA forum for it ROM, Kernel or Recovery project
 
-**[Android 5.1.1 Resurrection Remix for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-5-5-5-t3197643)**
-
-**[Android 6.0.1 Resurrection Remix for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3316232)**
-
-**[Android 7 Resurrection Remix for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3511109)**
-
-**[Android 7 Crdroid for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-crdroid-android-t3491257)**
-
-**[Android 8 Resurrection Remix for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3811195)**
-
-**[Android 9 Resurrection Remix for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3893041)**
-
-**[Android 9 LineageOS for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t3933342)**
-
-**[Android 10 LineageOS for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t4039895)**
-
 **[BHB27-Kernel for quark](http://forum.xda-developers.com/moto-maxx/development/kernel-bhb27-kernel-t3207526)**
 
 **[TWRP Recovery for Quark](http://forum.xda-developers.com/droid-turbo/orig-development/recovery-twrp-2-8-7-0-touch-recovery-t3180308)**
 
 **[MultiROM_TWRP for Quark](https://forum.xda-developers.com/moto-maxx/orig-development/tools-multiromtwrp-t3658605/)**
+
+**[Android 11 LineageOS for Quark](https://forum.xda-developers.com/t/rom-all-quark-android-11-lineageos-18-1.4285311/)**
+
+**[Android 10 LineageOS for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t4039895)**
+
+**[Android 9 LineageOS for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-lineageos-t3933342)**
+
+**[Android 9 Resurrection Remix for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3893041)**
+
+**[Android 8 Resurrection Remix for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3811195)**
+
+**[Android 7 Crdroid for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-crdroid-android-t3491257)**
+
+**[Android 7 Resurrection Remix for Quark](https://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3511109)**
+
+**[Android 6.0.1 Resurrection Remix for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-t3316232)**
+
+**[Android 5.1.1 Resurrection Remix for Quark](http://forum.xda-developers.com/moto-maxx/development/rom-resurrection-remix-5-5-5-t3197643)**
+
 
 **[@fgl27 at XDA](http://forum.xda-developers.com/member.php?u=5747496)**

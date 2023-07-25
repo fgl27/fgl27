@@ -1,7 +1,4 @@
-**A summary of the projects I created and or worked, developing application for Android, Smart TVs, Android TV, Tizen (Samsung TV OS), Web, Mobile and Linux, the main languages I use are Java, JavaScript, Html, CSS and Shell, the main Frameworks Firebase, Node e React.**
-
-### Stats
-![fgl27's github stats](https://github-readme-stats.vercel.app/api?username=fgl27&show_icons=true&theme=default&count_private=true) 
+**A summary of the projects I created and or worked on, developing applications for Android, Smart TVs, Android TV, Tizen (Samsung TV OS), Web, Mobile, and Linux, the main languages I use are Java, JavaScript, Html, CSS and Shell, the main Frameworks Firebase, Node e React.**
 
 ### Most used Languages and Tools  
 
@@ -28,11 +25,11 @@
 
 [![SmartTwitchTV](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=SmartTwitchTV)](https://github.com/fgl27/SmartTwitchTV) [![SmartTwitchTV for Samsung TV](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=smarttv-twitch)](https://github.com/fgl27/smarttv-twitch#how-the-application-looks) [![iSu](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=isu)](https://github.com/fgl27/isu) [![KA27](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=KA27)](https://github.com/fgl27/KA27) [![turbotoast](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=turbotoast)](https://github.com/fgl27/turbotoast)
 
-### Android OS ROM, Kernel and Recovery development
+### Android OS ROM, Kernel, and Recovery development
 
 [![device_motorola_quark](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=device_motorola_quark)](https://github.com/fgl27/device_motorola_quark) [![BHB27Kernel](https://github-readme-stats.vercel.app/api/pin/?username=fgl27&repo=BHB27Kernel)](https://github.com/fgl27/BHB27Kernel)
 
-###  XDA forum for it ROM, Kernel or Recovery project
+###  XDA forum for its ROM, Kernel, or Recovery project
 
 **[BHB27-Kernel for quark](http://forum.xda-developers.com/moto-maxx/development/kernel-bhb27-kernel-t3207526)**
 

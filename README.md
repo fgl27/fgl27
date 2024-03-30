@@ -1,4 +1,4 @@
-**A summary of the projects I created and or worked on, developing applications for Android, Smart TVs, Android TV, Tizen (Samsung TV OS), Web, Mobile, and Linux, the main languages I use are Java, JavaScript, Html, CSS and Shell, the main Frameworks Firebase, Node e React.**
+**A summary of the projects I created and or worked on, developing applications for Android, Smart TVs, Android TV, Tizen (Samsung TV OS), Web, Mobile, and Linux, the main languages I use are Java, JavaScript, HTML, CSS and Shell, the main Frameworks Firebase, Node e React.**
 
 ### Most used Languages and Tools  
 
